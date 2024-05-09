@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809320246000",
+    "project_id": "playstore-2925d",
+    "storage_bucket": "playstore-2925d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809320246000:android:9da919965ab7df0ac8b035",
+        "android_client_info": {
+          "package_name": "com.boukouch.wallpaperworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hVtcc5umS5lDI7088MeMqhj10y4Pk7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
